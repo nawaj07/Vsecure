@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "593643313692",
+    "firebase_url": "https://vsecure-93a58.firebaseio.com",
+    "project_id": "vsecure-93a58",
+    "storage_bucket": "vsecure-93a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593643313692:android:8e5a51e93c98950e",
+        "android_client_info": {
+          "package_name": "com.vsecure.android.vsecure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593643313692-hpfr384c21h8l8aied27aui8o1blqo7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBST2-0sTK2ODfkiFXnH5sGpQcpBb1nuEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
